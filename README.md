@@ -1,4 +1,4 @@
-*FPGA Implementation of SIFT feature detection, description, and matching* <br />
+## FPGA Implementation of SIFT feature detection, description, and matching <br />
 This repository hosts the code for SIFT feature detection, description, and matching running on Altera DE2-i150 FPGA board. The matching method is a brute-force approach.
 
 ***The code has been archived since 2020. Probably no change will be made in the future.***
